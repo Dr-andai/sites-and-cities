@@ -1,0 +1,170 @@
+OBJECTID,Facility_N,Type,Owner,County,Sub_County,Division,Location,Sub_Locati,Constituen,Nearest_To,Latitude,Longitude,Is_Study
+32,abidha health centre,Health Centre,Ministry of Health,Siaya,Rarieda,Rarieda,East Asembo,Omia Mwalo,RARIEDA,Asembo Bay,-0.15902,34.41064,Study_site
+195,akala health centre,Health Centre,Ministry of Health,Siaya,Gem,Wagai,South West Gem,Ndori,GEM,Akala Market,0.05961,34.42139,Study_site
+256,almacy medical  clinic,Medical Clinic,Private Practice - Nurse / Midwife,Siaya,Bondo,Usigu,W Yimbo,Usenge,BONDO,Usenge,-0.06349,34.06152,Not_Study_site
+279,aluor mission health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Gem,Wagai,South Gem,Onyinyore,GEM,Aluor Market,0.01047,34.465,Not_Study_site
+308,ambira subdistrict hospital,Sub-District Hospital,Ministry of Health,Siaya,Ugunja,Ugunja,Central Ugenya,Ambira,UGENYA,Ugunja Market,0.17689,34.27269,Not_Study_site
+363,anyuongi dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'oma,South Sakwa,East Miguena,BONDO,Anyuongi,-0.17618,34.27613,Not_Study_site
+368,apex clinic,Dispensary,Private Enterprise (Institution),Siaya,Bondo,Usigu,W Yimbo,Usenge,BONDO,Usenge,-0.06349,34.06152,Not_Study_site
+402,aro sda dispensary,Dispensary,Christian Health Association of Kenya,Siaya,Bondo,Maranda,N Sakwa,Abom,BONDO,Ndori,-0.06953,34.35579,Not_Study_site
+413,asayi dispensary,Dispensary,Ministry of Health,Siaya,Gem,Yala,Asayi,Sirembe,GEM,Sirembe Market,0.1176,34.37246,Not_Study_site
+414,asembo bay health clinic rarieda,Medical Clinic,Private Practice - Clinical Officer,Siaya,Rarieda,Rarieda,East Asembo,Omia Diere,RARIEDA,Kamito market,-0.1815,34.38582,Not_Study_site
+417,ashburn ohuru clinic,Medical Clinic,Other Faith Based,Siaya,Siaya,Karemo,South East Alego,siaya,ALEGO,Siaya Market,0.03228,34.31474,Not_Study_site
+501,bama hospital,Other Hospital,Private Enterprise (Institution),Siaya,Siaya,Karemo,Township,Karapul,ALEGO,Siaya Town,0.05668,34.29407,Not_Study_site
+520,bar achuth dispensary,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,North Ugenya,Nyalenya,UGENYA,Ligingo,0.28968,34.17204,Not_Study_site
+521,bar agulu dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,South East Alego,Baragulu,ALEGO,Bar Agulu Market,0.04205,34.3338,Study_site
+522,bar aluru dispensary rarieda,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,West Asembo,Siger,RARIEDA,Lwak market,-0.119978,34.3383,Not_Study_site
+526,bar ndege dispensary,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,North East Ugenya,Kathieno B,UGENYA,Kanyumba Market,-0.29962,34.34579,Not_Study_site
+527,bar olengo dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,South Alego,Bar Olengo,ALEGO,Bar Olengo Market,0.015152,34.21078,Not_Study_site
+560,barding dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,South Alego,Barding,ALEGO, Barding,0.01281,34.32742,Not_Study_site
+574,barsauri dispensry,Health Centre,Ministry of Health,Siaya,Gem,Yala,Township,S.Gem,GEM,Sauri School,0.11125,34.52503,Not_Study_site
+608,benga bi dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Uranga,South Alego,Benga,ALEGO,Benga Market,0.09518,34.12491,Not_Study_site
+727,bondo district hospital,District Hospital,Ministry of Health,Siaya,Bondo,Maranda,Bondo Township,Nyawita,BONDO,Bondo,-0.09021,34.2745,Not_Study_site
+728,bondo medical clinic,Medical Clinic,Private Enterprise (Institution),Siaya,Bondo,Maranda,Bondo Township,Bar Kowino,BONDO,Bondo,-0.0983,34.27539,Not_Study_site
+730,bondo university clinic,Medical Clinic,Academic (if registered),Siaya,Bondo,Maranda,Bondo Township,Barkowino,BONDO,Bondo Town,-0.0938,34.25786,Not_Study_site
+746,boro dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Boro,Central,Kakumu Kombewa,ALEGO,Boro Market Market,0.08843,34.23423,Not_Study_site
+926,cfw clinic ugunja,Medical Clinic,Non-Governmental Organizations,Siaya,Ugunja,Ugunja,Ugunja,Ugunja,UGENYA,Ugunja,0.180813,34.295271,Not_Study_site
+1151,chianda dispensary rarieda,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,East Uyoma,West Katwenga,RARIEDA,Chianda market,-0.25589,34.35278,Not_Study_site
+1382,dienya health centre,Health Centre,Ministry of Health,Siaya,Gem,Wagai,West Gem,Dienya West,GEM,Dienya (Apuoyo) Market,0.00154,34.40699,Study_site
+1405,dolphil nursing  maternity home,Other Hospital,Christian Health Association of Kenya,Siaya,Gem,Yala,East Gem,Lihanda,GEM,Luanda Market,0.04515,34.5611,Not_Study_site
+2012,future life dispensary,Dispensary,Other Faith Based,Siaya,Siaya,Karemo,south East Karemo,Bar Agulu,ALEGO,Ndodi Market,0.03721,34.287,Not_Study_site
+2349,gobei  health centre,Health Centre,Ministry of Health,Siaya,Bondo,Maranda,Bondo Township,Ajigo,BONDO,Bondo,-0.09021,34.2905,Not_Study_site
+2358,gogo disp,Dispensary,Ministry of Health,Siaya,Gem,Yala,North Gem,Lundha,GEM,Kodiaga Market,0.01772,34.42642,Not_Study_site
+2360,gok prison siaya,Medical Clinic,Other Public Institution,Siaya,Siaya,Karemo,Township,Uogo,ALEGO,Siaya Town,0.05147,34.28706,Not_Study_site
+2368,gongo health centre,Health Centre,Ministry of Health,Siaya,Gem,Yala,central Gem,Gongo,GEM,Migosi A,0.05877,34.47773,Not_Study_site
+2394,got agulu subdistrict hospital,Sub-District Hospital,Ministry of Health,Siaya,Bondo,Usigu,W Yimbo,Got Agulu,BONDO,Usenge,-0.0341,34.0248,Not_Study_site
+2398,got matar dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,E Yimbo,Othach,BONDO,Nyamonye,-0.0309,34.1315,Not_Study_site
+2401,got regea dispensary,Dispensary,Ministry of Health,Siaya,Gem,Yala,North Gem,Got Regea,GEM,Regea,0.13501,34.46762,Not_Study_site
+2477,harmony medical clinic,Dispensary,Private Practice - Nurse / Midwife,Siaya,Gem,Wagai,North West Gem,Sirembe,GEM,Sirembe Market,0.09774,34.39921,Not_Study_site
+2481,hawinga health centre,Health Centre,Ministry of Health,Siaya,Siaya,Uranga,South West Alego,Kaugagi,ALEGO,Hawinga Market,0.0876,34.16046,Not_Study_site
+2515,hessed clinic masiro,Medical Clinic,Private Practice - Nurse / Midwife,Siaya,Siaya,Sihay,Sihay, ,UGENYA, ,0.15324,34.16074,Not_Study_site
+2564,home ground nursing home,Nursing Home,Private Practice - Clinical Officer,Siaya,Ugunja,Ugunja,Central Ugenya,Ugunja,UGENYA,Ugunja,0.10847,34.1707,Not_Study_site
+2797,inuka hospital  maternity home,Other Hospital,Private Enterprise (Institution),Siaya,Gem,Yala,North Gem,Ndere,GEM,Ndere Market,0.14441,34.3982,Not_Study_site
+2798,inuka nursing home,Medical Clinic,Private Enterprise (Institution),Siaya,Ugunja,Ugunja,West Uholo,Ugunja,UGENYA,ugunja market,0.005,35.765,Not_Study_site
+2908,jalsonga medical clinic,Medical Clinic,Non-Governmental Organizations,Siaya,Siaya,Karemo,Township,Township,ALEGO,Siaya Town,0.06086,34.28486,Not_Study_site
+2923,jamii clinical services clinic,Medical Clinic,Private Practice - Clinical Officer,Siaya,Siaya,Karemo,Township,Township,ALEGO,Siaya Town,0.06048,34.28555,Not_Study_site
+2967,jera dispensary,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,North East Ugenya,Jera,UGENYA,Jera Market,0.2862,34.26382,Not_Study_site
+3045,junction clinic,Medical Clinic,Private Practice - Clinical Officer,Siaya,Bondo,Maranda,Township,Barkowino,BONDO,Bondo Town,-0.06117,34.16563,Not_Study_site
+3119,kabura dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Uranga,South west alego,Kabura Uhuji,ALEGO,Nduru market,0.13638,34.13259,Not_Study_site
+3135,kadenge ratuoro health centre,Health Centre,Ministry of Health,Siaya,Siaya,Boro,Central Alego,Kadenge,ALEGO,Kadenge Ratuoro,0.02373,34.17477,Not_Study_site
+3175,kagwa health centre,Health Centre,Ministry of Health,Siaya,Rarieda,Madiany,West Uyoma,Kagwa,RARIEDA,Amoyo,-0.22851,34.25665,Not_Study_site
+3320,kaluo dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Boro,Central Alego,Nyalgunga,ALEGO,Hono Market,0.11195,34.33441,Not_Study_site
+3358,kambajo dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Maranda,W Sakwa,Maranda,BONDO,Kambajo,-0.078944,34.21136,Not_Study_site
+3360,kambare dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,South Gem,Kambare,GEM, ,-0.03225,34.4665,Not_Study_site
+3540,kapiyo dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Maranda,Sw Sakwa,Kapiyo,BONDO,Maranda,-0.08601,34.17491,Not_Study_site
+3773,karuoth dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Boro,Central Alego,Kakum Kombewa,ALEGO,Ndere Market,0.10758,34.28015,Not_Study_site
+4774,kogelo dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,South East Alego,Nyangoma,ALEGO,Ng'Iya Township,0.00716,34.3448,Not_Study_site
+4842,kopiata beach dispensary rarieda,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,East Uyoma,East Katwenga,RARIEDA,Kopiata Beach,-0.31889,34.37009,Not_Study_site
+4843,kopolo clinic,Dispensary,Private Enterprise (Institution),Siaya,Bondo,Nyang'oma,C Sakwa,Nyangoma,BONDO,Nyang'oma,-0.009188,34.3469,Not_Study_site
+4895,kunya dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,East Uyoma,Ragengni,RARIEDA,Ragengni,-0.28581,34.39937,Not_Study_site
+5115,lieta health centre rarieda,Health Centre,Ministry of Health,Siaya,Rarieda,Madiany,South Uyoma,Lieta,RARIEDA, ,-0.28374,34.32313,Not_Study_site
+5120,ligega health centre,Health Centre,Ministry of Health,Siaya,Ugunja,Ugunja,Central Ugenya,Ligega,UGENYA,Ligega Market,0.2119,34.244,Not_Study_site
+5125,lihanda health centre,Health Centre,Non-Governmental Organizations,Siaya,Gem,Yala,East Gem,Lihanda,GEM,Lwanda Market,0.0404,34.50559,Not_Study_site
+5338,mabinju dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'oma,C Sakwa,West Migwena,BONDO,Bondo,-0.13472,34.24136,Not_Study_site
+5362,madiany sub county  hospital,Sub-District Hospital,Ministry of Health,Siaya,Rarieda,Madiany,East Uyoma,W Katweng'A,RARIEDA,Madiany market,-0.28396,34.32304,Not_Study_site
+5383,mageta dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,Mageta Island,Mahanga,BONDO,Usenge,-0.1325,34.0103,Not_Study_site
+5404,mahaya health centre rarieda,Health Centre,Ministry of Health,Siaya,Rarieda,Rarieda,West Asembo,Mahaya,RARIEDA,Kalandini,-0.16223,34.34066,Not_Study_site
+5510,malanga health centre,Health Centre,Ministry of Health,Siaya,Gem,Yala,North Gem,Malanga,GEM,Malanga Shopping Centre,0.11703,34.44843,Not_Study_site
+5516,maliera mission dispensary,Dispensary,Other Faith Based,Siaya,Gem,Yala,Yala Township,North Gem,GEM,Kodiaga Market,0.06485,34.27233,Not_Study_site
+5532,mama anns odede community health centre,Health Centre,Other Public Institution,Siaya,Rarieda,Madiany,North Uyoma,Ochieng'a,RARIEDA,Rageng'ni,0.2474,34.35437,Not_Study_site
+5595,manyuanda health centre rarieda,Health Centre,Ministry of Health,Siaya,Rarieda,Madiany,West Uyoma,Uyoma Kokwiri,RARIEDA,Manyuanda,-0.25252,34.27609,Not_Study_site
+5596,manyuanda st teresas cfw clinic rarieda,Medical Clinic,Private Enterprise (Institution),Siaya,Rarieda,Madiany,West Uyoma,Nyabera,RARIEDA,Manyuanda,-0.326112,34.276,Not_Study_site
+5629,marenyo health centre,Health Centre,Ministry of Health,Siaya,Gem,Yala,Yala Township,Marenyo,GEM,Yala Market,0.07641,34.55194,Not_Study_site
+5737,masala dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,Central Uyoma,Masala,RARIEDA,Anyuongi,-0.20811,34.29273,Not_Study_site
+5771,masumbi dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,Nduru,Nduru,ALEGO,Ngiya Market,0.0106,34.36116,Not_Study_site
+5778,matangwe community health centre,Health Centre,Private Enterprise (Institution),Siaya,Bondo,Maranda,Bondo Township,Bar Kowino,BONDO,Bondo,-0.153782,34.289877,Not_Study_site
+5808,matibabu nzoia clinic,Dispensary,Non-Governmental Organizations,Siaya,Ugunja,Ugunja,Central Ugenya,Umala,UGENYA,Nzoia Market,0.17416,34.22775,Not_Study_site
+5809,matibabu ukwala clinic,Dispensary,Private Practice - General Practitioner,Siaya,Ugenya,Ukwala,Ukwala,Doho East,UGENYA,Ukwala Market,0.20658,34.17871,Not_Study_site
+5872,mawere dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Maranda,N Sakwa,Abom,BONDO,Ndori,-0.04655,34.3443,Not_Study_site
+5892,mbaga health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Siaya,Boro,Central Alego,Mbaga,ALEGO,Mbaga Shopping Centre,0.08298,34.27626,Not_Study_site
+6110,midhine dispensary,Dispensary,Ministry of Health,Siaya,Gem,Yala,East Gem,Lihanda,GEM,Sagam Shopping Centre,0.0475,34.53381,Not_Study_site
+6191,misori dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,West Uyoma,Nyabera,RARIEDA,Misori Beach,-0.31856,34.278,Not_Study_site
+6521,mulaha dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,Township,Mulaha,ALEGO,Awelo Market,0.02967,34.15618,Not_Study_site
+6591,mur malanga dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Kaermo,South Alego,Mur Malanga,ALEGO,Mur Malanga Market,-0.00248,34.25229,Not_Study_site
+6811,mwer dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Uranga,Central Alego,Mwer,ALEGO,Mwer Shopping Centre,0.10804,34.1864,Not_Study_site
+7002,naya health centre,Health Centre,Ministry of Health,Siaya,Rarieda,Madiany,South Uyoma,Naya,RARIEDA,Lwanda Kotieno,-0.36255,34.3121,Not_Study_site
+7034,ndeda dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'oma,C Sakwa,Ndeda /Oyamo,BONDO,Liunda Beach,-0.218546,34.118499,Not_Study_site
+7045,ndere health centre,Health Centre,Ministry of Health,Siaya,Gem,Yala,North Gem,Ndere,GEM,Sidindi Shopping Centre,0.13766,34.38299,Not_Study_site
+7069,ndori health centre,Health Centre,Ministry of Health,Siaya,Rarieda,Rarieda,Central Asembo,Ramba North,RARIEDA,Ndori,-0.06975,34.37752,Not_Study_site
+7235,ngiya health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Siaya,Karemo,South East Alego,Mur Ngiya,ALEGO,Ng'Iya Township,-0.04497,34.37273,Not_Study_site
+7263,nguge dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,West Gem,Nguge,GEM, ,0.00187,34.42391,Not_Study_site
+7417,nyadhi dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Boro,Central Alego,Kakum Kombewa,ALEGO,Kobare Market,0.08238,34.18002,Not_Study_site
+7425,nyagoko dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,South Asembo,Nyagoko,RARIEDA,Anyuongi,-0.17535,34.29557,Not_Study_site
+7429,nyaguda dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'oma,S Sakwa,Nyaguda,BONDO, Wich lum Beach,-0.21243,34.21883,Not_Study_site
+7479,nyambare health centre,Health Centre,Christian Health Association of Kenya,Siaya,Siaya,Uranga,Usonga,Nyadorera A,ALEGO,Nyadorera Market,0.13342,34.10204,Not_Study_site
+7496,nyamonye mission dispensary,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Bondo,Usigu,N Yimbo,Nyamonye,BONDO,Nyamonye,-0.05125,34.13787,Not_Study_site
+7507,nyandusi,Maternity Home,Private Practice - Nurse / Midwife,Siaya,Bondo,Maranda,South West Sakwa,Kapiyo,BONDO,Nyandusi Village,-0.10618,34.14956,Not_Study_site
+7508,nyandwela medical clinic,Medical Clinic,Private Practice - Clinical Officer,Siaya,Bondo,Nyang'oma,North Sakwa,Nyaguda,BONDO,Wichlum Beach Market,0.23757,34.21159,Not_Study_site
+7518,nyangoma mission health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Bondo,Nyang'oma,C Sakwa,Nyangoma,BONDO,Nyang'oma,-0.15457,34.19475,Not_Study_site
+7521,nyangu dispensary,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,North W Ugenya,Ramunde,UGENYA,Ukwala Shopping Centre,0.22488,34.13531,Not_Study_site
+7548,nyathengo dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,East Alego,Olwa,ALEGO,Nyagondo Shopping Centre,0.05181,34.36196,Not_Study_site
+7554,nyawara health centre,Health Centre,Ministry of Health,Siaya,Gem,Yala,Central Gem,Nyyawara,GEM,Yala Township,0.09451,34.4888,Not_Study_site
+7558,nyayiera dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,Central Asembo,South Ramba,RARIEDA,Oyude market,-0.10514,34.38304,Not_Study_site
+7559,nyenye misori dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,W Yimbo,Usenge,BONDO,Usenge,-0.10144,34.06874,Not_Study_site
+7650,oding dispensary,Dispensary,Ministry of Health,Siaya,Gem,Yala,East Gem,Uranga,GEM,Lwanda Market,0.02241,34.49949,Not_Study_site
+7653,ogam dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,N Yimbo,Bar Kanyango,BONDO,Nyamonye,-0.02632,34.12472,Not_Study_site
+7661,ogero dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,South Gem,Gombe,GEM,Migosi Market,0.00552,34.4828,Not_Study_site
+7802,ongielo health centre,Health Centre,Ministry of Health,Siaya,Rarieda,Rarieda,East Asembo,Omia Malo,RARIEDA,Kalandin,-0.16875,34.37778,Study_site
+7854,othach dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,E Yimbo,Othach,BONDO,Nyamonye,-0.050586,34.20696,Not_Study_site
+7870,ouya dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'Oma,S Sakwa,Got Abiero,BONDO,Anyuongi,-0.18844,34.24527,Not_Study_site
+7871,owens nursing home,Nursing Home,Private Enterprise (Institution),Siaya,Bondo,Maranda,Towwnship,Bar Kowino,BONDO,Bondo,-0.10985,34.2696,Not_Study_site
+7872,oyamo dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'Oma,C Sakwa,Ndeda/Oyamo,BONDO,Liunda Beach,-0.190999,34.2387,Not_Study_site
+7905,pap kodero health centre,Health Centre,Ministry of Health,Siaya,Rarieda,Madiany,Central Uyoma,Kobong',RARIEDA,Madiany,-0.24657,34.32236,Not_Study_site
+7928,paula nursing home,Health Centre,Private Enterprise (Institution),Siaya,Siaya,Karemo,Township,Township,ALEGO,Siaya Town,0.05291,34.28883,Not_Study_site
+8030,port florence clinic,Medical Clinic,Private Practice - General Practitioner,Siaya,Siaya,Karemo,Township,Township,ALEGO,Siaya,0.05627,34.29105,Not_Study_site
+8119,rabar dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Uranga,West Alego,Uradi,ALEGO,Rabar Shopping Centre,0.14334,34.19299,Not_Study_site
+8131,radier dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,C Yimbo,Got Ramogi,BONDO,Usenge,-0.02495,34.07347,Not_Study_site
+8140,ragengni dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,East Uyoma,Ragengni,RARIEDA,Ragengni,-0.28196,34.38472,Not_Study_site
+8159,rambugu dispensary rarieda,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,West Asembo,Siger,RARIEDA,Ajigo Market,-0.09399,34.35616,Not_Study_site
+8160,rambula dispensary,Dispensary,Ministry of Health,Siaya,Ugunja,Ugunja,N West Ugenya,Rambula,UGENYA,Rambula Market,0.20667,34.3044,Not_Study_site
+8163,ramula health centre,Health Centre,Ministry of Health,Siaya,Gem,Yala,East Gem,Ramula,GEM,Ramula Shoping C,0.00116,34.52851,Not_Study_site
+8164,randago dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,South Alego,Randago,ALEGO,Randago Market,0.01429,34.29287,Not_Study_site
+8167,rangala health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Ugunja,Ugunja,South Ugenya,Rangala,UGENYA,Rang'Ala Shopping Centre,0.15529,34.33179,Not_Study_site
+8225,relief medical clinic,Medical Clinic,Private Practice - Clinical Officer,Siaya,Bondo,Maranda,Bondo Township,Barkowino,BONDO,Bondo town area,0.09862,34.27522,Not_Study_site
+8232,rera dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,South Gem,Rera,GEM,Aluor Market,-0.00521,34.448,Not_Study_site
+8284,riyadh medical clinic,Medical Clinic,Private Practice - Nurse / Midwife,Siaya,Ugenya,Ukwala,Ukwala,Ukwala,UGENYA,Ukwala Market,0.21003,34.18606,Not_Study_site
+8369,ruma youth friendly vct rarieda,VCT Centre (Stand-Alone),Private Enterprise (Institution),Siaya,Rarieda,Madiany,Central Uyoma,Masala,RARIEDA,Aram Market,-0.22119,34.33526,Not_Study_site
+8393,rwambwa health centre,Health Centre,Ministry of Health,Siaya,Siaya,Uranga,Usonga,Nyadorera,ALEGO,Nyadorera Market,0.11455,34.09324,Study_site
+8430,sagam community hospital,Other Hospital,Private Enterprise (Institution),Siaya,Gem,Yala,East Gem,Lihanda,GEM,Sagam,0.05607,34.54176,Not_Study_site
+8514,saradidi dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,Central Asembo,Memba,RARIEDA,Nyilima,-0.11288,34.39692,Not_Study_site
+8551,sega cottage hospital,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,North Ugenya,Sega,UGENYA,Sega Township,0.25934,34.22549,Not_Study_site
+8552,sega dispensary,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Ugenya,Ukwala,North Ugenya,Sega,UGENYA,Sega Township,0.26353,34.2271,Not_Study_site
+8553,sega health centre,Other Hospital,Private Enterprise (Institution),Siaya,Ugenya,Ukwala,North Ugenya,Sega,UGENYA,Sega Township,0.26353,34.2271,Not_Study_site
+8555,segere dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Boro,Boro,S.Alego,ALEGO,Boro Market,0.11233,34.24462,Not_Study_site
+8576,serawongo dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'Oma,C Sakwa,Uyawi,BONDO,Nango,-0.15221,34.13437,Not_Study_site
+8697,siala kaduol,Dispensary,Ministry of Health,Siaya,Gem,Wagai,South Gem,Onyinyore,GEM,Akala,0.0122,34.46104,Not_Study_site
+8699,siaya county referral beyond zero moble clinic dispensary,Dispensary,Ministry of Health,Siaya,Siaya, , , ,ALEGO, ,0.06313,34.2839,Study_site
+8700,siaya district hospital,District Hospital,Ministry of Health,Siaya,Siaya,Karemo,Township,Mulaha,ALEGO,Siaya,0.06313,34.2839,Study_site
+8701,siaya medical centre,Other Hospital,Private Enterprise (Institution),Siaya,Siaya,Karemo,Township,Mulaha,ALEGO,Siaya Town,0.06702,34.28735,Not_Study_site
+8707,sifuyo dispensary,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,West Ugenya,Sifuyo,UGENYA,Sifuyo Shopping Centre,0.15086,34.12707,Not_Study_site
+8709,sigomere health centre,Health Centre,Ministry of Health,Siaya,Ugunja,Ugunja,East Uholo,Sigomere,UGENYA,Sigomere Market,0.1963,34.3645,Not_Study_site
+8716,sikalame dispensary,Dispensary,Ministry of Health,Siaya,Ugunja,Ugunja,South Ugenya,Yiro East,UGENYA,Sigomere Market,0.16876,34.4051,Not_Study_site
+8748,simenya dispensary,Dispensary,Ministry of Health,Siaya,Ugunja,Ugunja,South Ugenya,Simenya,UGENYA,Sega Township,0.15676,34.36433,Not_Study_site
+8782,sirembe dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,North West Gem,Sirembe,GEM,Wagai(Ondisore)Shopping Centre,0.09503,34.4,Not_Study_site
+8807,siwadhe medical clinic,Medical Clinic,Private Practice - General Practitioner,Siaya,Siaya,Karemo,Township,Mulaha,ALEGO,Siaya Town,0.0742,34.18147,Not_Study_site
+8980,st elizabeth lwak mission health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Rarieda,Rarieda,West Asembo,Siger,RARIEDA,Lwak,-0.13,34.35,Study_site
+9062,st josephs obaga dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,South Asembo,Akom,RARIEDA,Aram,-0.20671,34.32469,Not_Study_site
+9148,st marys yala dispensary,Dispensary,Ministry of Health,Siaya,Gem,Yala,Yala Township,Marenyo,GEM,Yala Township,0.09468,34.53172,Not_Study_site
+9150,st mathews kandaria dispensary,Dispensary,Ministry of Health,Siaya,Rarieda,Rarieda,East Asembo,Omia Malo,RARIEDA,Nyilima,-0.1261,34.41533,Not_Study_site
+9181,st paul dispensary,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Ugunja,Ugunja,Central Ugenya,Ambira,ALEGO,Ugunja Township,0.16325,34.29315,Not_Study_site
+9315,sumba community dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Uranga,South Alego,Usonga,ALEGO,Nyadorera Market,0.0856,34.09344,Not_Study_site
+9591,tingare dispensary,Dispensary,Ministry of Health,Siaya,Ugunja,Ugunja,North Uholo,Tingare East,UGENYA,Sigomere Market,0.2588,34.3857,Not_Study_site
+9592,tingwangi health centre,Health Centre,Ministry of Health,Siaya,Siaya,Karemo,South Alego,Nyajuok,ALEGO,Ting'Wangi Market,0.02448,34.28293,Not_Study_site
+9690,tumaini disc   asembo bay,VCT Centre (Stand-Alone),Non-Governmental Organizations,Siaya,Rarieda,Rarieda,Kamito,Kamito,RARIEDA,Kamito Market,-0.18348,34.38666,Not_Study_site
+9773,ubuntu afya ninalakeside clinic,Medical Clinic,Christian Health Association of Kenya,Siaya,Bondo,Nyangoma,Central Sakwa,Nyangoma,BONDO,"Nango Centre,Nina village,Warianda Beach",-0.13567,34.16296,Not_Study_site
+9779,uhembo dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Uranga,Usonga,Uhembo,ALEGO,Sidundo Market,0.08326,34.11391,Not_Study_site
+9782,uhuyi dispensary,Dispensary,Ministry of Health,Siaya,Ugunja,Ugunja, ,South Ugenya,UGENYA,Ugunja Township,0.092553,34.3911,Not_Study_site
+9790,ukwala sub county hospital,District Hospital,Ministry of Health,Siaya,Ugenya,Ukwala,Ukwala,Yenga,UGENYA,Ukwala Shopping Centre,0.1931,34.18806,Not_Study_site
+9792,ulafu dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,East Alego,Ulafu,ALEGO,Ng'iya Market,0.04048,34.20876,Not_Study_site
+9796,ulungo dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,N Yimbo,Bar Kanyango,BONDO,Nyamonye,0.01815,34.10807,Not_Study_site
+9797,uluthe dispensary,Dispensary,Ministry of Health,Siaya,Ugunja,Ugunja,South Ugenya,Masiro,UGENYA,Masiro Market,0.296224,34.3196,Not_Study_site
+9798,umala dispensary,Dispensary,Ministry of Health,Siaya,Siaya,Karemo,Karemo,Yenga,ALEGO,Siaya,0.03286,34.3424,Not_Study_site
+9854,uradi health centre,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Siaya,Siaya,Uranga,East Alego,Uraga,ALEGO,Uraga Market,0.12156,34.15762,Not_Study_site
+9858,urenga dispensary,Dispensary,Ministry of Health,Siaya,Ugenya,Ukwala,North East Ugenya,Jera,UGENYA,Sigomere Market,0.0161,34.4397,Not_Study_site
+9860,uriri dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,North East Gem,Uriri,GEM,Wagai(Ondisore)Shopping Centre,0.02944,34.4546,Not_Study_site
+9867,usenge dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,W Yimbo,Usenge,BONDO,Usenge,-0.066475,34.055226,Not_Study_site
+9871,usigu dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Usigu,C Yimbo,Usigu,BONDO,Usigu,-0.0568,34.0994,Not_Study_site
+9890,uyawi dispensary,Dispensary,Ministry of Health,Siaya,Bondo,Nyang'Oma,C Sakwa,Uyawi,BONDO,Nango,-0.16139,34.16597,Not_Study_site
+9891,uzima clinic,Medical Clinic,Private Practice - General Practitioner,Siaya,Ugunja,Ugunja, , ,ALEGO,Ugunja  Township,0.015644,34.3637,Not_Study_site
+9978,wagai dispensary,Dispensary,Ministry of Health,Siaya,Gem,Wagai,North E Gem,Wagai,GEM,Wagai Market,0.05102,34.41679,Study_site
+9982,wagoro dispensary rarieda,Dispensary,Ministry of Health,Siaya,Rarieda,Madiany,West Uyoma,Kokwiri,RARIEDA,Nyakongo Market,-0.26793,34.28912,Not_Study_site
